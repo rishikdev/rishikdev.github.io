@@ -1,0 +1,99 @@
+body
+{
+    text-align: justify;
+    text-justify: inter-word;
+    background-color: #232323;
+    color: lightgray;
+}
+
+.carousel
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background: #e0e0e0;
+    box-shadow:  20px 20px 60px #bebebe,
+                -20px -20px 60px #ffffff;
+}
+
+.iPhone
+{
+    max-width: 20rem;
+}
+
+.iPad
+{
+    max-width: 100rem;
+}
+
+.Watch
+{
+    max-width: 20rem;
+}
+
+.card
+{
+    margin: 5%;
+    background: #393939;
+    box-shadow:  8px 8px 16px #1e1e1e,
+                -8px -8px 16px #1e1e1e;
+}
+
+.form-outer
+{
+    margin-top: 5%; 
+    margin-bottom: 5%;
+}
+
+.form-control
+{
+    border-color: black;
+    border-radius: 5px;
+    background: #e0e0e0;
+    box-shadow:  20px 20px 60px #bebebe,
+                -20px -20px 60px #ffffff;
+}
+
+.btn:focus
+{
+    background-color: #bebebe;
+}
+
+.collapsible 
+{
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    text-align: left;
+    outline: none;
+    border-radius: 10px;
+  }
+  
+  .list-active, .collapsible:hover 
+  {
+    background-color: #555;
+  }
+  
+  .collapsible:after 
+  {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .list-active:after 
+  {
+    content: "\2212";
+  }
+  
+  .courses-taken 
+  {
+    padding-top: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s linear;
+  }
