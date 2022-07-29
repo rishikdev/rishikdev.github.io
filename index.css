@@ -6,56 +6,12 @@ body
     color: lightgray;
 }
 
-.carousel
-{
-    margin-top: 5%;
-    margin-bottom: 5%;
-    background: #e0e0e0;
-    box-shadow:  20px 20px 60px #bebebe,
-                -20px -20px 60px #ffffff;
-}
-
-.iPhone
-{
-    max-width: 20rem;
-}
-
-.iPad
-{
-    max-width: 100rem;
-}
-
-.Watch
-{
-    max-width: 20rem;
-}
-
 .card
 {
     margin: 5%;
     background: #393939;
     box-shadow:  8px 8px 16px #1e1e1e,
                 -8px -8px 16px #1e1e1e;
-}
-
-.form-outer
-{
-    margin-top: 5%; 
-    margin-bottom: 5%;
-}
-
-.form-control
-{
-    border-color: black;
-    border-radius: 5px;
-    background: #e0e0e0;
-    box-shadow:  20px 20px 60px #bebebe,
-                -20px -20px 60px #ffffff;
-}
-
-.btn:focus
-{
-    background-color: #bebebe;
 }
 
 .collapsible 
