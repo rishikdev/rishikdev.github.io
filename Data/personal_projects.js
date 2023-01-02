@@ -1,0 +1,72 @@
+export default
+[
+    {
+        name : "Space Shooter",
+
+        description : "Designed and developed a 3D top-down shoot 'em up game similar to Asteroids, Galaga, and DemonStar with support for both keyboards and gamepads. Players can also get Power Ups to upgrade their weapons. Currently, there is only one level with more levels planned for the future.",
+
+        skills : "Unity Game Engine, C#",
+
+        button_1_link : "https://rishikdev.github.io/SpaceShooter/",
+        button_1_text : "Play",
+
+        button_2_link : "https://github.com/rishikdev/Space-Shooter-Unity-Game-Engine/tree/main/New",
+        button_2_text : "GitHub"
+    },
+
+    {
+        name : "My Notes Plus",
+
+        description : "Developed and published a note-taking application for iPhone, iPad, and Apple Watch using SwiftUI and Swift. Used Core Data with CloudKit to persist user data. The entire application is built on the MVVM architecture, and has widget support.",
+
+        skills : "SwiftUI, Swift, Xcode",
+
+        button_1_link : "https://apps.apple.com/us/app/my-notes-plus/id1636570752?itsct=apps_box_badge&itscg=30200",
+        button_1_text : "App Store",
+
+        button_2_link : "https://github.com/rishikdev/Xcode-Projects/tree/main/MyNotesPlus",
+        button_2_text : "GitHub"
+    },
+
+    {
+        name : "Remember Me?",
+
+        description : "Developed and published a memory game for iPhone, and iPad using SwiftUI and Swift. Used timers to display the emoticons for a specific amount of time.",
+
+        skills : "SwiftUI, Swift, Swift Playgrounds, Xcode",
+
+        button_1_link : "https://apps.apple.com/us/app/remember-me/id1627908191?itsct=apps_box_link&itscg=30200",
+        button_1_text : "App Store",
+
+        button_2_link : "https://github.com/rishikdev/Xcode-Projects/tree/main/Remember%20Me%3F",
+        button_2_text : "GitHub"
+    },
+
+    {
+        name : "My Notes",
+
+        description : "Developed and published a note-taking application for iPhone, and iPad using SwiftUI and Swift. Used Core Data to persist user data. The entire application is built on the MVVM architecture.",
+
+        skills : "SwiftUI, Swift, Xcode",
+
+        button_1_link : "https://apps.apple.com/us/app/my-notes-secure-organised/id1616417517?ign-itscg=30200&ign-itsct=apps_box_badge",
+        button_1_text : "App Store",
+
+        button_2_link : "https://github.com/rishikdev/Xcode-Projects/tree/main/My%20Notes",
+        button_2_text : "GitHub"
+    },
+
+    {
+        name : "MyFavouriteCars",
+
+        description : "Designed and developed a website to list my favorite cars. Used AJAX for a more responsive user experience. Implemented a technique that enabled animations when scrolling the webpage.",
+
+        skills : "HTML, CSS, Bootstrap, JavaScript, JQuery, AJAX, PHP, Blender, RESTful",
+
+        button_1_link : "https://myfavouritecars97.000webhostapp.com/",
+        button_1_text : "Website",
+
+        button_2_link : "https://github.com/rishikdev/My-Favourite-Cars-Website",
+        button_2_text : "GitHub"
+    }
+]
