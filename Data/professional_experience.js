@@ -4,7 +4,10 @@ export default
         card_title : "Accenture, India (OCT 2019 - JUN 2020)",
         work : [
             "Worked as an Associate Software Engineer (ASE)",
-            "My responsibilities included: adding new features to existing products, fixing bugs, and resolving any other issues present in the product"
+            "Developed and maintained SaaS application using Java and React.js",
+            "Wrote unit tests and unit testable code to identify and eliminate bugs",
+            "Coordinated with co-workers to provide on-time delivery of the product in an agile environment",
+            "Worked with Product Owners to refine user stories"
         ]
     }
 ]
