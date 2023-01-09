@@ -47,7 +47,7 @@ export default
 
         description : "Developed and published a note-taking application for iPhone, and iPad using SwiftUI and Swift. Used Core Data to persist user data. The entire application is built on the MVVM architecture.",
 
-        skills : "SwiftUI, Swift, Xcode",
+        skills : "SwiftUI, Swift, Xcode, MVVM",
 
         button_1_link : "https://apps.apple.com/us/app/my-notes-secure-organised/id1616417517?ign-itscg=30200&ign-itsct=apps_box_badge",
         button_1_text : "App Store",
