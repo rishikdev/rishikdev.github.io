@@ -7,7 +7,7 @@ export default
                       "<br><br>Created character controller from the ground up using Unity's Rigidbody system. Designed the enemy AI from scratch using Unity's AI system and Unity's NavMesh system." +
                       "<br><br>The game is replete with animations and an avatar to represent the user.",
         
-        skills : "C#, Unity Game Engine, GoogleVR SDK",
+        skills : "C#, Unity Game Engine, Unity AI, NavMesh, GoogleVR SDK, OOP",
         
         button_1_link : "https://youtu.be/tUNDGGOS6Jg",
         button_1_text : "Video",
