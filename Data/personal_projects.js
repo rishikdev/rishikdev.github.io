@@ -3,9 +3,9 @@ export default
     {
         name : "Space Shooter",
 
-        description : "Designed and developed a 3D top-down shoot 'em up game similar to Asteroids, Galaga, and DemonStar with support for both keyboards and gamepads. Players can also get Power Ups to upgrade their weapons. Currently, there is only one level with more levels planned for the future.",
+        description : "Designed and developed a 3D top-down shoot 'em up game similar to Asteroids, Galaga, and DemonStar with support for both keyboards and gamepads. Players can also get Power Ups to upgrade their weapons. Currently, there is only one level with more levels planned for the future. Used OOP principles to create four different types of enemies.",
 
-        skills : "Unity Game Engine, C#",
+        skills : "Unity Game Engine, C#, OOP",
 
         button_1_link : "https://rishikdev.github.io/SpaceShooter/",
         button_1_text : "Play",
@@ -17,9 +17,9 @@ export default
     {
         name : "My Notes Plus",
 
-        description : "Developed and published a note-taking application for iPhone, iPad, and Apple Watch using SwiftUI and Swift. Used Core Data with CloudKit to persist user data. The entire application is built on the MVVM architecture, and has widget support.",
+        description : "Developed and published a note-taking application for iPhone, iPad and Apple Watch using SwiftUI and Swift. Used Core Data with CloudKit to persist user data locally as well as on iCloud, and WidgetKit for making customizable widgets. The entire application is built on the MVVM architecture.",
 
-        skills : "SwiftUI, Swift, Xcode",
+        skills : "SwiftUI, Swift, Xcode, MVVM, WidgetKit, CloudKit",
 
         button_1_link : "https://apps.apple.com/us/app/my-notes-plus/id1636570752?itsct=apps_box_badge&itscg=30200",
         button_1_text : "App Store",
@@ -31,7 +31,7 @@ export default
     {
         name : "Remember Me?",
 
-        description : "Developed and published a memory game for iPhone, and iPad using SwiftUI and Swift. Used timers to display the emoticons for a specific amount of time.",
+        description : "Participated in Swift Student Challenge at Apple. Developed and published a memory game for iPhone, and iPad using SwiftUI and Swift. Used timers to display the emoticons for a specific amount of time.",
 
         skills : "SwiftUI, Swift, Swift Playgrounds, Xcode",
 
@@ -59,7 +59,7 @@ export default
     {
         name : "MyFavouriteCars",
 
-        description : "Designed and developed a website to list my favorite cars. Used AJAX for a more responsive user experience. Implemented a technique that enabled animations when scrolling the webpage.",
+        description : "Designed and developed a website to list my favorite cars. Implemented a technique that loads specific images based on the direction of page scroll creating an illusion of animation while scrolling. Used AJAX for a responsive user experience.",
 
         skills : "HTML, CSS, Bootstrap, JavaScript, JQuery, AJAX, PHP, Blender, RESTful",
 
