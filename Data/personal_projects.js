@@ -1,6 +1,20 @@
 export default
 [
     {
+        name : "SocialifyMe",
+
+        description : "An application that lets users sign in using their email address, Google or Facebook account, post, like, and bookmark pictures, follow, and message other users. Functionalities implemented: Sign In, post, like, bookmark, and edit profile. Also writing unit tests to make a robust and bug-free application.
+",
+
+        skills : "UIKit, Swift, Xcode, MVVM, Firebase, Unit Tests, API Handling, Core Data",
+
+        //button_1_link : "https://rishikdev.github.io/SpaceShooter/",
+        //button_1_text : "Play",
+
+        button_2_link : "https://github.com/rishikdev/Compunnel/tree/main/Assignments/SocialifyMe",
+        button_2_text : "GitHub"
+    },
+    {
         name : "Space Shooter",
 
         description : "Designed and developed a 3D top-down shoot 'em up game similar to Asteroids, Galaga, and DemonStar with support for both keyboards and gamepads. Players can also get Power Ups to upgrade their weapons. Currently, there is only one level with more levels planned for the future. Used OOP principles to create four different types of enemies.",
