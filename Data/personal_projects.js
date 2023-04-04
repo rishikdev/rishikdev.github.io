@@ -3,8 +3,7 @@ export default
     {
         name : "SocialifyMe",
 
-        description : "An application that lets users sign in using their email address, Google or Facebook account, post, like, and bookmark pictures, follow, and message other users. Functionalities implemented: Sign In, post, like, bookmark, and edit profile. Also writing unit tests to make a robust and bug-free application.
-",
+        description : "An application that lets users sign in using their email address, Google or Facebook account, post, like, and bookmark pictures, follow, and message other users. Functionalities implemented: Sign In, post, like, bookmark, and edit profile. Also writing unit tests to make a robust and bug-free application.",
 
         skills : "UIKit, Swift, Xcode, MVVM, Firebase, Unit Tests, API Handling, Core Data",
 
@@ -14,6 +13,7 @@ export default
         button_2_link : "https://github.com/rishikdev/Compunnel/tree/main/Assignments/SocialifyMe",
         button_2_text : "GitHub"
     },
+    
     {
         name : "Space Shooter",
 
