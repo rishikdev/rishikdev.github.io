@@ -5,10 +5,10 @@ export default
         names : [
             "Java",
             "C#",
-            "JavaScript",
-            "Python",
             "Swift",
-            "HTML5",
+            "Python",
+            "JavaScript",
+            "HTML",
             "CSS",
             "SQL"
         ]
@@ -17,36 +17,33 @@ export default
     {
         card_title : "Frameworks",
         names : [
+            "SwiftUI",
+            "UIKit",
+            "Core Data",
             "DBMS",
             "RESTful",
-            "MVC",
-            "MVVM",
-            "Spring Boot",
-            "SwiftUI",
-            "AJAX",
-            "CloudKit",
-            "WidgetKit",
             "Bootstrap",
         ]
     },
 
     {
-        card_title : "Libraries & Tools",
+        card_title : "Libraries and Tools",
         names : [
             "React.js",
             "jQuery",
             "Git",
-            "MediaPipe"
+            "Swift Package Manager",
+            "CocoaPods"
         ]
     },
-    
+
     {
-        card_title : "Software & Services",
+        card_title : "Software and Services",
         names : [
-            "Xcode",
+            "XCode",
+            "Firebase",
             "Visual Studio",
             "Visual Studio Code",
-            "AWS",
             "IntelliJ",
             "Unity Game Engine"
         ]

@@ -30,6 +30,14 @@ function populate_personal_projects()
                                         "<div class=\"card-group\"" + css_style + ">";
         }
 
+        const button_1_link = personal_projects[i].button_1_link
+        const button_1_text = personal_projects[i].button_1_text
+
+        const button_2_link = personal_projects[i].button_2_link
+        const button_2_text = personal_projects[i].button_2_text
+
+        const button_1_class = button_1_link === undefined ? "btn btn-primary disabled" : "btn btn-primary"
+        const button_2_class = button_2_link === undefined ? "btn btn-info disabled" : "btn btn-info"
 
         personal_projects_element = personal_projects_element +
                                     "<div class=\"card\">" +
@@ -43,8 +51,8 @@ function populate_personal_projects()
                                             "<p class=\"card-text\">" + personal_projects[i].skills + "</p>" +
                                         "</div>" +
                                         "<div class=\"card-footer d-flex justify-content-between\">" +
-                                            "<a href=\"" + personal_projects[i].button_1_link + "\" class=\"btn btn-primary\" target=\"_blank\" style=\"width: 100px;\">" + personal_projects[i].button_1_text + "</a>" +
-                                            "<a href=\"" + personal_projects[i].button_2_link + "\" class=\"btn btn-info\" target=\"_blank\" style=\"width: 100px;\">" + personal_projects[i].button_2_text + "</a>" +
+                                            "<a href=\"" + button_1_link + "\" class=\"" + button_1_class + "\" target=\"_blank\" style=\"width: 100px;\">" + button_1_text + "</a>" +
+                                            "<a href=\"" + button_2_link + "\" class=\"" + button_2_class + "\" target=\"_blank\" style=\"width: 100px;\">" + button_2_text + "</a>" +
                                         "</div>" +
                                     "</div>";
     }

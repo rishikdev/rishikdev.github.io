@@ -168,4 +168,3 @@ function populate_skills()
   skills_element = skills_element +
                     "</div>";
 }
-

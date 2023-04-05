@@ -7,8 +7,8 @@ export default
 
         skills : "UIKit, Swift, Xcode, MVVM, Firebase, Unit Tests, API Handling, Core Data",
 
-        //button_1_link : "https://rishikdev.github.io/SpaceShooter/",
-        //button_1_text : "Play",
+        //button_1_link : "App Store Link",
+        button_1_text : "App Store",
 
         button_2_link : "https://github.com/rishikdev/Compunnel/tree/main/Assignments/SocialifyMe",
         button_2_text : "GitHub"
