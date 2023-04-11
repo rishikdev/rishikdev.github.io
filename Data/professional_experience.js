@@ -1,12 +1,12 @@
 export default
 [
     {
-        card_title : "Rebecca Everlene Trust Company, United States (JAN 2023 - MAR 2023)",
+        card_title : "Rebecca Everlene Trust Company, United States (Jan 2023 - Present)",
         work : [
-            "Worked as a Unity (Game) Developer",
-            "Developed Landmarks game prototype using Unity Game Engine, C#, and MapBox",
+            "Working as a Unity (Game) Developer",
+            "Developing Landmarks game prototype using Unity Game Engine, C#, and MapBox",
             "Created the base of the entire application by connecting MapBox with Unity Game Engine",
-            "Coordinated with other developers and concept artists to materialise the prototype"
+            "Coordinating with other developers and concept artists to materialise the prototype"
         ]
     },
 
