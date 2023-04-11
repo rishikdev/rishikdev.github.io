@@ -11,7 +11,7 @@ export default
     },
 
     {
-        card_title : "Accenture, India (OCT 2019 - JUN 2020)",
+        card_title : "Accenture, India (Oct 2019 - Jun 2020)",
         work : [
             "Worked as an Associate Software Engineer (ASE)",
             "Developed and maintained SaaS application using Java and React.js",
