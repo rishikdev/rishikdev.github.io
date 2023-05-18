@@ -52,7 +52,7 @@ export default
         button_1_link : "https://apps.apple.com/us/app/remember-me/id1627908191?itsct=apps_box_link&itscg=30200",
         button_1_text : "App Store",
 
-        button_2_link : "https://github.com/rishikdev/Xcode-Projects/tree/main/Remember%20Me%3F",
+        button_2_link : "https://github.com/rishikdev/Xcode-Projects/tree/main/Remember%20Me",
         button_2_text : "GitHub"
     },
 
