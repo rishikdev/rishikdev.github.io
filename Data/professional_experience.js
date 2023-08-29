@@ -1,7 +1,7 @@
 export default
 [
     {
-        card_title : "Compunnel Inc, United States (Jan 2023 - Present)",
+        card_title : "Compunnel Inc, United States (Mar 2023 - Present)",
         work : [
             "Working with native iOS frameworks and APIs like Core Data, XCTest, URLSession, MapKit",
             "Working on improving the performance of the application by refactoring and optimising the code-base",
