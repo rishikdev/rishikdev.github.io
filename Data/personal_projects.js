@@ -10,7 +10,7 @@ export default
         //button_1_link : "App Store Link",
         button_1_text : "App Store",
 
-        button_2_link : "https://github.com/rishikdev/Compunnel/tree/main/Assignments/SocialifyMe",
+        button_2_link : "https://github.com/rishikdev/Xcode-Projects/tree/main/SocialifyMe",
         button_2_text : "GitHub"
     },
     
