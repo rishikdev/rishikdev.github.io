@@ -25,16 +25,16 @@ function populate_academics()
                       "<div class=\"card\">" +
                         "<div class=\"card-header\">Academics</div>" +
                         "<div class=\"card-body\">" +
-                          "<ul>" +
-                            "<li>";
+                          "<ul>";
                       
   for(i = 0; i < academics.length; i = i + 1)
   {
     if(academics[i].has_courses)
     {
       academics_element = academics_element +
-                          "<button type=\"button\" class=\"card-text collapsible\">" + academics[i].degree + " • <a href=\"" + academics[i].institution_link +"\" target=\"_blank\">" + academics[i].institution_name + "</a> • " + academics[i].city_year + "</button>" +
-                          "<ul class=\"courses-taken\">";
+                          "<li>" +
+                            "<button type=\"button\" class=\"card-text collapsible\">" + academics[i].degree + " • <a href=\"" + academics[i].institution_link +"\" target=\"_blank\">" + academics[i].institution_name + "</a> • " + academics[i].city_year + "</button>" +
+                            "<ul class=\"courses-taken\">";
                     
       for(j = 0; j < academics[i].semesters.length; j = j + 1)
       {
@@ -101,7 +101,7 @@ function populate_professional_experience()
 {
   var i, j;
   professional_experience_element = professional_experience_element +
-                                    "<div class=\"card\">" +
+                                    "<div class=\"card\" style=\"margin-bottom: 0%\">" +
                                       "<div class=\"card-header\">Professional Experience</div>" +
                                         "<div class=\"card-body\">" +
                                           "<ul>";
@@ -139,16 +139,30 @@ function populate_professional_experience()
 function populate_skills()
 {
   var i, j;
-  skills_element = skills_element +
-                    "<div class=\"card\">" +
-                      "<div class=\"card-header\">Skills</div>";
+  var css_style = "";
 
   for(i = 0; i < skills.length; i = i + 1)
   {
+    // Adding margin-bottom to the last card group
+    if((skills.length % 2 == 0 && skills.length - i == 2) || (skills.length % 2 != 0 && skills.length - i == 1))
+      css_style = "style=\"margin-bottom: 5%;\"";
+
+    if(i == 0)
+      skills_element = skills_element +
+                          "<div class=\"card-group\">";
+    
+    if(i != 0 && i % 2 == 0)
+    {
+      skills_element = skills_element +
+                          "</div>" +
+                          "<div class=\"card-group\"" + css_style + ">";
+    }
+
     skills_element = skills_element +
-                      "<div class=\"card-body\">" +
-                        "<h5 class=\"card-title\">" + skills[i].card_title + "</h5>" +
-                        "<ul>";
+                        "<div class=\"card\">" +
+                          "<div class=\"card-header\">" + skills[i].card_title + "</div>" +
+                          "<div class=\"card-body\">" +
+                            "<ul>";
 
     for(j = 0; j < skills[i].names.length; j = j + 1)
     {
@@ -157,14 +171,8 @@ function populate_skills()
     }
 
     skills_element = skills_element +
-                        "</ul>" +
+                          "</ul>" +
+                        "</div>" + 
                       "</div>";
-
-    if(i != skills.length - 1)
-      skills_element = skills_element +
-                        "<hr>";
   }
-
-  skills_element = skills_element +
-                    "</div>";
 }

@@ -45,7 +45,8 @@ export default
             "Visual Studio",
             "Visual Studio Code",
             "IntelliJ",
-            "Unity Game Engine"
+            "Unity Game Engine",
+            "MS Office Suite"
         ]
     }
 ]

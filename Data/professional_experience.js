@@ -1,12 +1,12 @@
 export default
 [
     {
-        card_title : "Compunnel Inc, United States (Mar 2023 - Present)",
+        card_title : "Compunnel Inc, United States (Mar 2023 - Nov 2023)",
         work : [
-            "Working with native iOS frameworks and APIs like Core Data, XCTest, URLSession, MapKit",
-            "Working on improving the performance of the application by refactoring and optimising the code-base",
-            "Refactored some API classes to make use of Combine framework, thereby eliminating some bugs and improving performance",
-            "Writing unit tests using XCTest framework"
+            "Worked with native iOS frameworks and APIs like Core Data, XCTest, URLSession, MapKit",
+            "Worked on improving the performance of the application by refactoring and optimising the code-base",
+            "Refactored API classes to make use of Combine framework, thereby eliminating some bugs and improving performance",
+            "Wrote unit tests using XCTest framework"
         ]
     },
     

@@ -1,6 +1,33 @@
 export default
 [
     {
+        degree : "Master of Science in Information Technology",
+        institution_link : "https://www.ucumberlands.edu",
+        institution_name : "University of the Cumberlands",
+        city_year : "United States • December 2025",
+        has_courses : true,
+
+        semesters : [
+            {
+                semester : "Spring 2024",
+                courses : [
+                    {
+                        course_link : "https://www.ucumberlands.edu/academics/executive/masters-information-technology",
+                        course_code : "ITS 530",
+                        course_name : "ITS 530 - Analyzing & Visualizing Data"
+                    },
+
+                    {
+                        course_link : "https://www.ucumberlands.edu/academics/executive/masters-information-technology",
+                        course_code : "ITS 531",
+                        course_name : "Business Intelligence"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
         degree : "Master of Science in Computer Science",
         institution_link : "https://www.utdallas.edu",
         institution_name : "The University of Texas at Dallas",
@@ -114,7 +141,7 @@ export default
     },
 
     {
-        degree : "Undergraduation in Electronics & Telecommunication",
+        degree : "Bachelor of Engineering in Electronics & Telecommunication",
         institution_link : "http://cms.sinhgad.edu/sinhgad_engineering_institutes/skncoe_vadgaon/institute_details.aspx",
         institution_name : "Smt. Kashibai Navale College Engineering",
         city_year : "Pune • May 2019",
