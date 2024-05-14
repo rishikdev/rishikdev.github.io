@@ -1,5 +1,21 @@
 export default [
   {
+    name: "QTube",
+
+    description:
+      "Designed and developed a website to list, queue, and watch YouTube videos. Used Google Search API and YouTube APIs to get suggestions and video results respectively. Used Next.js and Tailwind to design the frontend of the application. Used debounce function to minimise API calls by up-to 75%.",
+
+    skills:
+      "Next.js, Tailwind, TypeScript, Redux, YouTube Search API, YouTube Videos API, Google Search API, Git",
+
+    button_1_link: "https://qtube-nine.vercel.app/",
+    button_1_text: "Website",
+
+    button_2_link: "https://github.com/rishikdev/qtube",
+    button_2_text: "GitHub",
+  },
+
+  {
     name: "YouTube Playlist Creator",
 
     description:
