@@ -3,7 +3,7 @@ export default [
     degree: "Master of Science in Information Technology",
     institution_link: "https://www.ucumberlands.edu",
     institution_name: "University of the Cumberlands",
-    city_year: "United States • December 2025",
+    city_year: "United States • August 2025",
     has_courses: true,
 
     semesters: [
@@ -12,14 +12,14 @@ export default [
         courses: [
           {
             course_link:
-              "https://www.ucumberlands.edu/academics/executive/masters-information-technology",
+              "https://catalog.ucumberlands.edu/content.php?filter%5B27%5D=ITS&filter%5B29%5D=530&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=1&expand=&navoid=24&search_database=Filter&filter%5Bexact_match%5D=1#acalog_template_course_filter",
             course_code: "ITS 530",
-            course_name: "ITS 530 - Analyzing & Visualizing Data",
+            course_name: "Analyzing & Visualizing Data",
           },
 
           {
             course_link:
-              "https://www.ucumberlands.edu/academics/executive/masters-information-technology",
+              "https://catalog.ucumberlands.edu/content.php?filter%5B27%5D=ITS&filter%5B29%5D=531&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=1&expand=&navoid=24&search_database=Filter&filter%5Bexact_match%5D=1#acalog_template_course_filter",
             course_code: "ITS 531",
             course_name: "Business Intelligence",
           },
@@ -30,14 +30,14 @@ export default [
         courses: [
           {
             course_link:
-              "https://www.ucumberlands.edu/academics/executive/masters-information-technology",
+              "https://catalog.ucumberlands.edu/content.php?filter%5B27%5D=ITS&filter%5B29%5D=532&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=1&expand=&navoid=24&search_database=Filter&filter%5Bexact_match%5D=1#acalog_template_course_filter",
             course_code: "ITS 532",
             course_name: "Cloud Computing",
           },
 
           {
             course_link:
-              "https://www.ucumberlands.edu/academics/executive/masters-information-technology",
+              "https://catalog.ucumberlands.edu/content.php?filter%5B27%5D=ITS&filter%5B29%5D=535&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=1&expand=&navoid=24&search_database=Filter&filter%5Bexact_match%5D=1#acalog_template_course_filter",
             course_code: "ITS 535",
             course_name: "System Analysis and Design",
           },
