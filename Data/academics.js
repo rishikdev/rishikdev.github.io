@@ -43,6 +43,24 @@ export default [
           },
         ],
       },
+      {
+        semester: "Fall 2024",
+        courses: [
+          {
+            course_link:
+              "https://catalog.ucumberlands.edu/content.php?filter%5B27%5D=ITS&filter%5B29%5D=536&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=1&expand=&navoid=24&search_database=Filter&filter%5Bexact_match%5D=1#acalog_template_course_filter",
+            course_code: "ITS 536",
+            course_name: "Human Computer Interaction and Usability",
+          },
+
+          {
+            course_link:
+              "https://catalog.ucumberlands.edu/content.php?filter%5B27%5D=ITS&filter%5B29%5D=537&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=1&expand=&navoid=24&search_database=Filter&filter%5Bexact_match%5D=1#acalog_template_course_filter",
+            course_code: "ITS 537",
+            course_name: "Information Technologies and Mobile Applications",
+          },
+        ],
+      }
     ],
   },
 
