@@ -1,11 +1,14 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Varela_Round } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/custom/theme/theme-provider";
 import Navbar from "@/components/custom/navbar/navbar";
 import { cn } from "@/lib/utils";
 
-const inter = Inter({ subsets: ["latin"] });
+const font = Varela_Round({
+  subsets: ["latin"],
+  weight: "400",
+});
 
 export const metadata: Metadata = {
   title: "Rishik's Portfolio",
@@ -20,7 +23,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={cn(inter.className)}>
+      <body className={cn("bg-violet-100 dark:bg-black", font.className)}>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"

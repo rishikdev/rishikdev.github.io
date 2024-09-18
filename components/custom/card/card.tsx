@@ -21,12 +21,12 @@ const cardPropsDefaultValues: CardProps = {
 };
 
 const Card = ({ header, body, footer, className }: CardProps) => {
-  const shadow = "shadow-[rgba(0,_0,_0,_0.24)_0px_0px_15px]";
+  const shadow = "shadow-[rgba(0,_0,_0,_0.24)_0px_0px_5px]";
 
   return (
     <div
       className={cn(
-        "p-2 grid content-between divide-y bg-slate-300/20 dark:bg-slate-700/20 rounded-md backdrop-blur-md",
+        "p-2 grid content-between divide-y bg-neutral-300/50 dark:bg-neutral-800/50 border border-neutral-300/50 dark:border-neutral-700/50 rounded-lg backdrop-blur-sm",
         className,
         shadow
       )}
