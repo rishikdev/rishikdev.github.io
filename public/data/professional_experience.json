@@ -1,0 +1,54 @@
+[
+  {
+    "organisation": "Compunnel Inc",
+    "title": "Software Developer (iOS)",
+    "duration": "March 2023 - November 2023",
+    "location": "United States",
+    "responsibilities": [
+      "Leveraged native iOS frameworks and APIs, including Core Data, XCTest, URLSession, and MapKit, to enhance application functionality and user experience",
+      "Improved the performance of the application by refactoring and optimising the code-base",
+      "Refactored API classes to make use of Combine framework, thereby eliminating some bugs and improving performance",
+      "Designed and implemented unit tests using the XCTest framework, ensuring robust and reliable application performance"
+    ]
+  },
+
+  {
+    "organisation": "Rebecca Everlene Trust Company",
+    "title": "Game Developer",
+    "duration": "January 2023 - May 2023",
+    "location": "United States",
+    "responsibilities": [
+      "Volunteered as a Unity (Game) Developer",
+      "Developed Landmarks game prototype using Unity Game Engine, C#, and MapBox",
+      "Established the application framework by integrating MapBox with Unity Game Engine",
+      "Coordinated with other developers and concept artists to materialise the prototype"
+    ]
+  },
+
+  {
+    "organisation": "Accenture",
+    "title": "Associate Software Engineer",
+    "duration": "October 2019 - June 2020",
+    "location": "India",
+    "responsibilities": [
+      "Worked as an Associate Software Engineer (ASE)",
+      "Developed and maintained SaaS application using Java and React.js",
+      "Wrote unit tests and unit testable code to identify and eliminate bugs",
+      "Coordinated with co-workers to provide on-time delivery of the product in an agile environment",
+      "Worked with Product Owners to refine user stories"
+    ]
+  },
+
+  {
+    "organisation": "Total Solutions",
+    "title": "Software Developer",
+    "duration": "January 2016 - September 2019",
+    "location": "India",
+    "responsibilities": [
+      "Developed Java-based applications, ensuring robustness, scalability, and efficiency in code architecture",
+      "Designed and implemented intuitive user interfaces using HTML and CSS, enhancing user experience across web applications",
+      "Utilised SQL to design, optimise, and maintain relational databases, facilitating efficient data storage, retrieval, and manipulation",
+      "Actively participated in project planning and coordination meetings, contributing valuable insights to project roadmaps"
+    ]
+  }
+]

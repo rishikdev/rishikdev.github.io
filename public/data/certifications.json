@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "title": "Programming for Everybody (Getting Started with Python)",
+    "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python. The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”. Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.",
+    "institution": "Coursera | University of Michigan",
+    "completion_date": "25 April 2020",
+    "validation_url": "https://coursera.org/verify/SZEXYRNZYJ7P",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 2,
+    "title": "Python Data Structures",
+    "description": "This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook “Python for Everybody”. This course covers Python 3.",
+    "institution": "Coursera | University of Michigan",
+    "completion_date": "28 April 2020",
+    "validation_url": "https://coursera.org/verify/6RLD7S5JWCBH",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 3,
+    "title": "Using Python to Access Web Data",
+    "description": "This course will show how one can treat the Internet as a source of data. We will scrape, parse, and read web data as well as access data using web APIs. We will work with HTML, XML, and JSON data formats in Python. This course will cover Chapters 11-13 of the textbook “Python for Everybody”. To succeed in this course, you should be familiar with the material covered in Chapters 1-10 of the textbook and the first two courses in this specialization. These topics include variables and expressions, conditional execution (loops, branching, and try/except), functions, Python data structures (strings, lists, dictionaries, and tuples), and manipulating files. This course covers Python 3.",
+    "institution": "Coursera | University of Michigan",
+    "completion_date": "01 May 2020",
+    "validation_url": "https://coursera.org/verify/VJVLCXWSHFTM",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 4,
+    "title": "Capstone: Retrieving, Processing, and Visualizing Data with Python",
+    "description": "In the capstone, students will build a series of applications to retrieve, process and visualize data using Python. The projects will involve all the elements of the specialization. In the first part of the capstone, students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find. Chapters 15 and 16 from the book “Python for Everybody” will serve as the backbone for the capstone. This course covers Python 3.",
+    "institution": "Coursera | University of Michigan",
+    "completion_date": "05 May 2020",
+    "validation_url": "https://coursera.org/verify/S4WYPKU4XW4G",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 5,
+    "title": "Using Databases with Python",
+    "description": "This course will introduce students to the basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort. The course will use SQLite3 as its database. We will also build web crawlers and multi-step data gathering and visualization processes. We will use the D3.js library to do basic data visualization. This course will cover Chapters 14-15 of the book “Python for Everybody”. To succeed in this course, you should be familiar with the material covered in Chapters 1-13 of the textbook and the first three courses in this specialization. This course covers Python 3.",
+    "institution": "Coursera | University of Michigan",
+    "completion_date": "08 May 2020",
+    "validation_url": "https://coursera.org/verify/ZUQCEL5XMX97",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 6,
+    "title": "Python for Everybody",
+    "description": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own applications for data retrieval, processing, and visualization.",
+    "institution": "Coursera | University of Michigan",
+    "completion_date": "08 May 2020",
+    "validation_url": "https://coursera.org/verify/specialization/AXZAHUEV8TCA",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 7,
+    "title": "Global Diplomacy - Diplomacy in the Modern World",
+    "description": "The Global Diplomacy course is a unique offering to the MOOC environment. Bringing together cutting edge research in the broad fields of Diplomatic and International Studies, award winning distance learning delivery and the instructors previous experience of delivering a successful MOOC. Please see the volume Global Diplomacy: Theories, Types and Models authored with Dr Alison Holmes, (Westview, 2016), and the Understanding Research Methods MOOC from Coursera.\n\nThe Global Diplomacy MOOC has a direct heritage in the University of London International Academy/SOAS Global Diplomacy MA Programme launched in April 2013 which have attracted hundreds of students from around the world. The Global Diplomacy MA Programme is provided by the Centre for International Studies and Diplomacy which has been teaching postgraduate courses in Diplomacy for over twenty five years.\n\nAfter completing the 'Global Diplomacy' MOOC, learners will have:\n\n1. The ability to demonstrate a critical understanding of the nature and development of global diplomacy, drawing on a variety of relevant contributing disciplines in the broad field of International Studies.\n\n2. An understanding of changes in diplomatic practices and procedures and the relationship of those changes to contemporary politics.\n\n3. A sound grounding in both theoretical and empirical approaches to debates in diplomacy  so that students have been exposed to the and skills needed to analyse global diplomacy.\n\n4. knowledge of issues in global diplomacy in historical and contemporary contexts.",
+    "institution": "Coursera | University of London | SOAS University of London",
+    "completion_date": "20 July 2020",
+    "validation_url": "https://coursera.org/verify/FWNNXKDFE4A6",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 8,
+    "title": "React.js Essential Training",
+    "description": "Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied. In this course, Eve Porcello introduces the basics of the React library using the most modern syntax and best practices for creating React components. Along the way, learn how to set up Chrome tools for React; create new components; work with the built-in Hooks in React; use the Create React App to run tests, and more. By the end of the course, you'll be armed with the essentials of React.js and better prepared to build your own browser-based projects.",
+    "institution": "LinkedIn Learning",
+    "completion_date": "06 January 2023",
+    "validation_url": "https://www.linkedin.com/learning/certificates/e7e6a23cd8fae1eb3606d9171ca12f7bc19aedb70b004d86b2b29531392a8b6a",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 9,
+    "title": "Programming for Non-Programmers: iOS 15 and Swift 5",
+    "description": "Do you want to develop native iOS applications, but aren't sure where to start? This course gives you a chance to try it out with a simple iOS application that you can create in a single day. Instructor Todd Perkins uses visual representations of conceptual aspects of coding to make the content relatable and digestible. Todd shows you how to set up your coding environment, work with variables, understanding and using methods and conditional statements, and much more. Plus, he goes over best practices for finishing your application. At the end of the course, you will have the skills to create a simple iOS app on your own.",
+    "institution": "LinkedIn Learning",
+    "completion_date": "10 January 2023",
+    "validation_url": "https://www.linkedin.com/learning/certificates/95f9e73e690fcc9faeb306d3cec1eee585cbae01501500d8af051973b974d222",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 10,
+    "title": "Introducing .NET Core",
+    "description": ".NET is an open-source development platform, a collection of languages and libraries that can work together to build all kinds of applications. In this course, Scott Hanselman and Kendra Havens introduce you to .NET Core and walk you through how to build your first app. First, Scott and Kendra show you how to install the .NET software development kit (SDK) and how to install Visual Studio. Next, they teach you how to say Hello World with C#. They step you through some basics of Visual Studio and debugging. Next, they cover how to add a class library to your executable program. Kendra and Scott explore NuGet, a .NET package manager that lets you pull in code from other community members and use it in your programs. They go over how to write some unit tests in C# and run them with the Visual Studio Test Explorer. In conclusion, they demonstrate how to publish your app to Windows and to Linux.\n\nThis course was created by Microsoft.NET. We are pleased to host this training in our library.",
+    "institution": "LinkedIn Learning",
+    "completion_date": "10 January 2023",
+    "validation_url": "https://www.linkedin.com/learning/certificates/8bdcf4bb5d6c4db645dda16f2548919ae840a177349b7c791593248d6c0fbafa",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 11,
+    "title": ".NET Fundamentals: Concepts, APIs, and Libraries in the .NET Framework",
+    "description": ".NET is the fundamental programming platform for the Microsoft developer ecosystem, and is the foundation of professional applications big and small. Each release of .NET includes hundreds of standard code libraries and APIs that can help you build massively scalable web applications, work with various databases, and even include .NET-specific machine learning in your code. In this course, instructor Walt Ritscher looks at the fundamentals of .NET APIs and examines the big picture–exploring the many libraries in breadth, not in depth. He explains key terminologies, and runs down a brief history of .NET. He then looks at important types and concepts, like the Common Type System and Common Language Specification, and explains delegates, generics, events, reflection, attributes, and more.\n\nJoin Walt in this course and learn about the interesting and useful ways you can use .NET to enhance your applications.",
+    "institution": "LinkedIn Learning",
+    "completion_date": "20 October 2023",
+    "validation_url": "https://www.linkedin.com/learning/certificates/e1969a9190dad271a74faa219f99eb637e22d89d7bfb5321d94c87a8d1366974",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 12,
+    "title": "Introduction to Software Engineering",
+    "description": "Are you curious about the lucrative field that is software engineering and how you might be a part of it? This is the course for you! By taking this course you will gain foundational knowledge of software development, programming, and the many exciting job roles and career paths that the IT industry offers.\n\nLearn about the power of the Software Development Lifecycle (SDLC), and modern software development frameworks methodologies like Agile and Scrum. Explore fundamental programming principles and foundations of design, architecture, and deployment. The course offers a number of labs that will help you get important hands-on experience. These include, getting started with an IDE, basics of programming in Python, and Hello World in 10 languages.\n\nThe field of software engineering is growing at an estimated rate of 22% according to the US Bureau of Labor and Statistics. In addition to aspiring software engineers, front-end, back-end, full stack developers and DevOps professionals, this course is also suitable for those in related careers such as Product and Project Managers, IT Managers, Information Developers, UI/UX designers and others who communicate and interact with software engineers.\n\nYou will learn about the different job opportunities and possible career paths in the software engineering field and also hear from industry professionals about what they do on a day-to-day basis.\n\nProfessionals in the software engineering field are in great demand and now is a great time to learn more about this exciting domain. Start by enrolling now!",
+    "institution": "Coursera | IBM",
+    "completion_date": "25 July 2024",
+    "validation_url": "https://coursera.org/verify/QYNSJTLHHU2Q",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 13,
+    "title": "Generative AI: Introduction and Applications",
+    "description": "This course is designed for everyone, including professionals, executives, students, and enthusiasts, interested in learning about generative AI and leveraging its capabilities in their work and lives.\n\nThis course is your first step toward understanding the capabilities of generative AI, powered by different models, including large language models (LLMs).\n\nIn this course, you will learn about the fundamentals and evolution of generative AI. You will explore the capabilities of generative AI in different domains, including text, image, audio, video, virtual worlds, code, and data. You will understand the applications of generative AI across different sectors and industries. You will learn about the capabilities and features of common generative AI models and tools, such as GPT, DALL-E, Stable Diffusion, and Synthesia.\n\nHands-on labs, included in the course, provide an opportunity to explore the use cases of generative AI through IBM Generative AI Classroom and popular tools like ChatGPT. You will also hear from the practitioners about the capabilities, applications, and tools of generative AI.",
+    "institution": "Coursera | IBM",
+    "completion_date": "31 July 2024",
+    "validation_url": "https://coursera.org/verify/XWEDV0AP8XGM",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 14,
+    "title": "Generative AI: Prompt Engineering Basics",
+    "description": "This course is designed for everyone, including professionals, executives, students, and enthusiasts interested in leveraging effective prompt engineering techniques to unlock the full potential of generative artificial intelligence (AI) tools like ChatGPT.\n\nPrompt engineering is a process to effectively guide generative AI models and control their output to produce desired results. In this course, you will learn the techniques, approaches, and best practices for writing effective prompts.\n\nYou will learn about prompt techniques like zero-shot and few-shot, which can improve the reliability and quality of large language models (LLMs). You will also explore various prompt engineering approaches like Interview Pattern, Chain-of-Thought, and Tree-of-Thought, which aim at generating precise and relevant responses.\n\nYou will be introduced to commonly used prompt engineering tools like IBM watsonx Prompt Lab, Spellbook, and Dust.\n\nThe hands-on labs included in the course offer an opportunity to optimize results by creating effective prompts in the IBM Generative AI Classroom. You will also hear from practitioners about the tools and approaches used in prompt engineering and the art of writing effective prompts.",
+    "institution": "Coursera | IBM",
+    "completion_date": "08 August 2024",
+    "validation_url": "https://coursera.org/verify/OH9Y4A4UXDFB",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 15,
+    "title": "Introduction to HTML, CSS, & JavaScript",
+    "description": "Want to take the first steps to become a Web Developer? This course will help you discover the languages, frameworks, and tools that you will need to create interactive and engaging websites right from the beginning.\n\nYou will begin by learning about the roles of front-end, back-end, and full-stack developers and how they work together on development projects. Through this, you will also become familiar with the terminology and skills needed in your career as a web developer.\n\nNext, you will explore the languages needed for developing websites or applications. You will gain a thorough understanding of HTML and CSS and learn how a combination of both technologies can help developers create the structure and style of their websites.\n\nFinally, you will learn how JavaScript can make your webpages dynamic with features that include interactive forms, dynamic content modification, and sophisticated menu systems.\n\nBy learning the fundamentals of HTML5, CSS, and JavaScript you will be able to combine them to:\n\n- create the basic structure of a website\n\n- create format and layout for web applications\n\n- enhance your website and create rich, interactive applications\n\n- increase user interactivity and enhance user experience\n\n- give your website a real wow factor!\n\nIn this course you will practice what you learn with numerous hands-on labs. Lastly, you will complete a final project where you will create a webpage to showcase your skills and have a great addition to your portfolio!",
+    "institution": "Coursera | IBM",
+    "completion_date": "09 August 2024",
+    "validation_url": "https://coursera.org/verify/93LDEVM4VU71",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 16,
+    "title": "Building Generative AI-Powered Applications with Python",
+    "description": "Ready for an interactive learning experience to develop applications and chatbots for diverse use cases using generative AI?\n\nThis course provides an opportunity to work on guided projects that provide step-by-step instructions to build generative AI-powered applications. You'll utilize Python, along with related libraries like Flask and Gradio, and frameworks such as Langchain.\n\nIn the course, you will work on hands-on projects to build chatbots and apps by utilizing popular large language models (LLMs) such as GPT-3 and Llama 2, hosted on platforms such as IBM watsonx and Hugging Face. Additionally, you'll explore retrieval-augmented generation (RAG) technology, enhancing LLMs by incorporating external information beyond their training data. This course also equips you to build voice-enabled chatbots and apps using IBM Watson® Speech Libraries for Embed.\n\nTo develop these projects, you'll be using Python, making it essential to have a basic understanding of the language. While knowing some HTML, CSS, and JavaScript can be beneficial, it's not a requirement. The course includes supporting videos and readings to build a foundational understanding of models, frameworks, and technologies used in the projects.",
+    "institution": "Coursera | IBM",
+    "completion_date": "22 August 2024",
+    "validation_url": "https://coursera.org/verify/0E2OM443A0E5",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 17,
+    "title": "Generative AI: Elevate your Software Development Career",
+    "description": "Generative AI is transforming the field of Software Engineering, making it a crucial skills for Developers to have in their toolkit. This IBM course \"Generative AI for Software Developers\" is designed to provide you with a comprehensive understanding of how generative AI techniques can be applied to enhance software development processes.\n\nThis course is designed to offer the necessary skills and knowledge needed to leverage AI-powered tools and algorithms to improve the efficiency of software development processes.\n\nThrough a combination of videos, hands-on exercises, demos, and projects, you will learn how to leverage generative AI models to automate various aspects of software development, including code generation, design and architectures, bug detection, and optimization.\n\nThis course will also help you understand the ethical considerations that you should follow to use AI to its full potential.\n\nEnroll today to get the most out of AI for developing software and boost your career!",
+    "institution": "Coursera | IBM",
+    "completion_date": "23 August 2024",
+    "validation_url": "https://coursera.org/verify/B0NHN5V9YGOA",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 18,
+    "title": "Software Developer Career Guide and Interview Preparation",
+    "description": "Software engineering professionals are in high demand around the world, and the trend shows no sign of slowing. There are lots of great jobs available, but lots of great candidates too. How can you get the edge in such a competitive field?\n\nThis course will prepare you to enter the job market as a great candidate for a software engineering position. It provides practical techniques for creating essential job-seeking materials such as a resume and a portfolio, as well as auxiliary tools like a cover letter and an elevator pitch. You will learn how to find and assess prospective job positions, apply to them, and lay the groundwork for interviewing.\n\nThe course doesn't stop there, however. You will also get inside tips and steps you can use to perform professionally and effectively at interviews. You will learn how to approach a code challenge and get to practice completing them. Additionally, it provides information about the regular functions and tasks of software engineers, as well as the opportunities of the profession and some options for career development.\n\nYou will get guidance from a number of experts in the software industry through the course. They will discuss their own career paths and talk about what they have learned about networking, interviewing, solving coding problems, and fielding other questions you may encounter as a candidate. Let seasoned software development professionals share their experience to help you get ahead and land the job you want.\n\nThis course will prepare learners for roles with a variety of titles, including Software Engineer, Software Developer, Application Developer, Full Stack Developer, Front-End Developer, Back-End Developer, DevOps Engineer, and Mobile App Developer.",
+    "institution": "Coursera | IBM",
+    "completion_date": "23 August 2024",
+    "validation_url": "https://coursera.org/verify/74OO8K0XE84B",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 19,
+    "title": "Developing AI Applications with Python and Flask",
+    "description": "This mini course is intended to apply basic Python skills for developing Artificial Intelligence (AI) enabled applications. In this hands-on project you will assume the role of a developer and perform tasks including:\n\n- Develop functions and application logic\n\n- Exchange data using Watson AI libraries\n\n- Write unit tests, and\n\n- Package the application for distribution.\n\nYou will demonstrate your foundational Python skills by employing different techniques to develop web applications and AI powered solutions. After completing this course, you will have added another project to your portfolio and gained the confidence to begin developing AI enabled applications using Python and Flask, Watson AI libraries, build and run unit tests, and package the application for distribution out in the real world.",
+    "institution": "Coursera | IBM",
+    "completion_date": "23 August 2024",
+    "validation_url": "https://coursera.org/verify/9AEVR4E73NX9",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 20,
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "description": "Artificial Intelligence (AI) is all around us, seamlessly integrated into our daily lives and work. Enroll in this course to understand the key AI terminology and applications and launch your AI career or transform your existing one.\n\nThis course covers core AI concepts, including deep learning, machine learning, and neural networks. You'll examine generative AI models, including large language models (LLMs) and their capabilities. Furthermore, you'll examine AI's application across domains such as natural language processing (NLP), computer vision, and robotics, uncovering how these advancements drive innovation and use cases.\n\nThis course explores AI's transformative impact, including generative AI, on businesses. It also explains how AI can revolutionize your work and environment and what career opportunities it offers.\n\nFinally, the course explores AI ethics and governance, prevalent concerns and issues surrounding the AI landscape.\n\nThe course includes hands-on labs and a project, providing an opportunity to explore AI's use cases and applications. You will also hear from expert practitioners about the capabilities, applications, and ethical considerations surrounding AI.\n\nThis course is suitable for everyone, including professionals, enthusiasts, and students interested in learning the fundamentals of AI.",
+    "institution": "Coursera | IBM",
+    "completion_date": "23 August 2024",
+    "validation_url": "https://coursera.org/verify/TN33VNXH16GI",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 21,
+    "title": "Python for Data Science, AI & Development",
+    "description": "Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply Python has never been higher.\n\nThis introduction to Python course will take you from zero to programming in Python in a matter of hours—no prior programming experience necessary! You will learn about Python basics and the different data types. You will familiarize yourself with Python Data structures like List and Tuples, as well as logic concepts like conditions and branching. You will use Python libraries such as Pandas, Numpy & Beautiful Soup. You'll also use Python to perform tasks such as data collection and web scraping with APIs.\n\nYou will practice and apply what you learn through hands-on labs using Jupyter Notebooks. By the end of this course, you'll feel comfortable creating basic programs, working with data, and automating real-world tasks using Python.\n\nThis course is suitable for anyone who wants to learn Data Science, Data Analytics, Software Development, Data Engineering, AI, and DevOps as well as a number of other job roles.",
+    "institution": "Coursera | IBM",
+    "completion_date": "23 August 2024",
+    "validation_url": "https://coursera.org/verify/3FOMPH0QYY70 ",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  },
+
+  {
+    "id": 22,
+    "title": "IBM AI Developer",
+    "description": "In this Professional Certificate, learners acquired the core knowledge and practical skills to build web applications and generative AI- powered solutions. They acquired a foundational understanding of the concepts related to programming and the Software Development Lifecycle (SDLC). They learned about the concepts, techniques, and applications related to AI, including generative AI and prompt engineering. The certificate holder has demonstrated their ability to design and develop web applications using HTML, CSS, JavaScript, Python, and Flask and build chatbots and innovative solutions using generative AI-powered models, tools and technologies. The certificate holder is prepared for a promising career in AI development and software engineering, specializing in generative AI.",
+    "institution": "Coursera | IBM",
+    "completion_date": "23 August 2024",
+    "validation_url": "https://www.coursera.org/account/accomplishments/professional-cert/1C4NHXR8BDUG",
+    "thumbnail_url": "",
+    "certificate_url": ""
+  }
+]

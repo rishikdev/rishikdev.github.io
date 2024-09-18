@@ -1,0 +1,55 @@
+[
+  {
+    "category": "Programming Languages",
+    "items": [
+      "Java",
+      "C#",
+      "Swift",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "SQL"
+    ]
+  },
+
+  {
+    "category": "Frameworks",
+    "items": [
+      "SwiftUI",
+      "UIKit",
+      "Core Data",
+      "DBMS",
+      "RESTful",
+      "Bootstrap",
+      "Tailwind CSS",
+      "Flask"
+    ]
+  },
+
+  {
+    "category": "Libraries and Tools",
+    "items": [
+      "React.js",
+      "Next.js",
+      "jQuery",
+      "Git",
+      "Swift Package Manager",
+      "CocoaPods"
+    ]
+  },
+
+  {
+    "category": "Software and Services",
+    "items": [
+      "XCode",
+      "Firebase",
+      "Visual Studio",
+      "Visual Studio Code",
+      "IntelliJ",
+      "Unity Game Engine",
+      "MS Office Suite"
+    ]
+  }
+]
