@@ -16,25 +16,14 @@ interface CoursesTaken {
   courses: Courses[];
 }
 
-interface AcademicContainerPropsRequired {
+interface AcademicContainerProps {
   degree: React.ReactNode;
   institution_name: React.ReactNode;
   location: React.ReactNode;
   graduation_time: React.ReactNode;
   has_courses: React.ReactNode;
+  courses_taken?: CoursesTaken[];
 }
-
-interface AcademicContainerPropsOptional {
-  courses_taken: CoursesTaken[];
-}
-
-interface AcademicContainerProps
-  extends AcademicContainerPropsRequired,
-    AcademicContainerPropsOptional {}
-
-const academicContainerPropsDefaultValues: AcademicContainerPropsOptional = {
-  courses_taken: [],
-};
 
 const AcademicContainer = ({
   degree,
@@ -42,7 +31,7 @@ const AcademicContainer = ({
   location,
   graduation_time,
   has_courses,
-  courses_taken,
+  courses_taken = [],
 }: AcademicContainerProps) => {
   const [showCourseDetails, setShowCourseDetails] = useState(false);
 
@@ -91,7 +80,5 @@ const AcademicContainer = ({
     </div>
   );
 };
-
-AcademicContainer.defaultProps = academicContainerPropsDefaultValues;
 
 export default AcademicContainer;
