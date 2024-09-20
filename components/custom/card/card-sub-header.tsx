@@ -1,27 +1,19 @@
 import { cn } from "@/lib/utils";
 
 interface CardSubHeaderProps {
-  primary_header1: React.ReactNode;
-  primary_header2: React.ReactNode;
-  secondary_header1: React.ReactNode;
-  secondary_header2: React.ReactNode;
-  className: string;
+  primary_header1?: React.ReactNode;
+  primary_header2?: React.ReactNode;
+  secondary_header1?: React.ReactNode;
+  secondary_header2?: React.ReactNode;
+  className?: string;
 }
 
-const cardSubHeaderPropsDefaultValues: CardSubHeaderProps = {
-  primary_header1: undefined,
-  primary_header2: undefined,
-  secondary_header1: undefined,
-  secondary_header2: undefined,
-  className: "",
-};
-
 const CardSubHeader = ({
-  primary_header1,
-  primary_header2,
-  secondary_header1,
-  secondary_header2,
-  className,
+  primary_header1 = undefined,
+  primary_header2 = undefined,
+  secondary_header1 = undefined,
+  secondary_header2 = undefined,
+  className = "",
 }: CardSubHeaderProps) => {
   return (
     <div className={cn("grid", className)}>
@@ -46,7 +38,5 @@ const CardSubHeader = ({
     </div>
   );
 };
-
-CardSubHeader.defaultProps = cardSubHeaderPropsDefaultValues;
 
 export default CardSubHeader;
