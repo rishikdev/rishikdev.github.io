@@ -4,6 +4,8 @@ import Link from "next/link";
 import CardSubHeader from "../card/card-sub-header";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
+import { Button } from "@/components/ui/button";
+import { ChevronsUpDown } from "lucide-react";
 
 interface Courses {
   course_link: string;
@@ -33,20 +35,32 @@ const AcademicContainer = ({
   has_courses,
   courses_taken = [],
 }: AcademicContainerProps) => {
-  const [showCourseDetails, setShowCourseDetails] = useState(false);
+  const [showCourseDetails, setShowCourseDetails] = useState(true);
 
   return (
-    <div
-      className="grid gap-2"
-      onClick={() => setShowCourseDetails(!showCourseDetails)}
-    >
-      <CardSubHeader
-        primary_header1={institution_name}
-        primary_header2={degree}
-        secondary_header1={location}
-        secondary_header2={graduation_time}
-        className="cursor-pointer"
-      />
+    <div className="grid gap-2">
+      <div className="flex items-center">
+        <div className="grow">
+          <CardSubHeader
+            primary_header1={institution_name}
+            primary_header2={degree}
+            secondary_header1={location}
+            secondary_header2={graduation_time}
+          />
+        </div>
+        {has_courses && (
+          <div className="">
+            <Button
+              variant="ghost"
+              size="icon"
+              className="p-1 transition-all duration-500 cursor-pointer hover:bg-white dark:hover:bg-accent"
+              onClick={() => setShowCourseDetails(!showCourseDetails)}
+            >
+              <ChevronsUpDown className="h-[1.2rem] w-[1.2rem]" />
+            </Button>
+          </div>
+        )}
+      </div>
       {has_courses && (
         <div className={cn("gap-2", showCourseDetails ? "grid" : "hidden")}>
           {courses_taken.map((course_taken) => (

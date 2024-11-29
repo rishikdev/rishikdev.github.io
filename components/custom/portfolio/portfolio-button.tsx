@@ -9,7 +9,7 @@ const PortfolioButton = ({ symbol, text }: PortfolioButtonProps) => {
   return (
     <Button
       variant="ghost"
-      className="w-full flex justify-start transition-all duration-500 hover:text-green-600"
+      className="w-full flex justify-start transition-all duration-500"
     >
       {symbol}
       {text}

@@ -23,7 +23,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={cn("bg-stone-200 dark:bg-black", font.className)}>
+      <body className={cn("bg-stone-300 dark:bg-black", font.className)}>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
@@ -32,7 +32,7 @@ export default function RootLayout({
         >
           <Navbar />
           <div className="mt-[3rem] p-4 flex w-full justify-center text-justify">
-            <div className="w-[95%] 2xl:w-[50%] transition-all duration-500">
+            <div className="w-[95%] lg:w-[75%] 2xl:w-[50%] transition-all duration-500">
               {children}
             </div>
           </div>

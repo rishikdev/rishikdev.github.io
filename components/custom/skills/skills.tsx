@@ -3,7 +3,7 @@ import Card from "../card/card";
 
 const Skills = () => {
   return (
-    <ul className="grid gap-8 list-disc">
+    <ul className="grid lg:grid-cols-4 gap-8 list-disc">
       {skills.map((skill) => (
         <Card
           key={skill.category}

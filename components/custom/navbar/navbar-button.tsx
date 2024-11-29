@@ -12,7 +12,7 @@ const NavbarButton = ({ symbol, href, target = "" }: NavbarButtonProps) => {
     <Button
       variant="ghost"
       size="icon"
-      className="p-1 transition-all duration-500 hover:text-green-600"
+      className="p-1 transition-all duration-500"
       asChild
     >
       <Link href={href} target={target}>

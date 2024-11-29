@@ -5,19 +5,13 @@ import Summary from "../summary/summary";
 
 const HomePage = () => {
   return (
-    <div className="grid gap-8 md:grid-cols-3">
-      <div className="col-span-1">
-        <div className="grid gap-8">
-          <Summary />
-          <Skills />
-        </div>
+    <div className="grid gap-8">
+      <Summary />
+      <div className="grid lg:grid-cols-2 gap-8">
+        <Academics />
+        <ProfessionalExperience />
       </div>
-      <div className="md:col-span-2">
-        <div className="grid gap-8">
-          <Academics />
-          <ProfessionalExperience />
-        </div>
-      </div>
+      <Skills />
     </div>
   );
 };

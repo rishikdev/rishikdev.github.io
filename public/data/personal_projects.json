@@ -1,5 +1,19 @@
 [
   {
+    "title": "RYTD",
+
+    "description": "Designed and developed a Safari-specific extension to view YouTube dislike counts. Utilised the Return YouTube Dislike API to fetch dislike data, ensuring reliability and ease of use. The extension supports both light and dark modes, providing a seamless experience across all devices, including iPhones, iPads, and Macs.",
+
+    "skills": "UIKit, Swift, HTML, CSS, JavaScript, Bootstrap, Xcode, Git",
+
+    "button_1_link": "https://apple.co/3B7zfFr",
+    "button_1_text": "App Store",
+
+    "button_2_link": "https://github.com/rishikdev/Xcode-Projects/tree/main/RYTD",
+    "button_2_text": "GitHub"
+  },
+
+  {
     "title": "QTube",
 
     "description": "Designed and developed a website to list, queue, and watch YouTube videos. Used Google Search API and YouTube APIs to get suggestions and video results respectively. Used Next.js and Tailwind to design the frontend of the application. Used debounce function to minimise API calls by up-to 75%.",

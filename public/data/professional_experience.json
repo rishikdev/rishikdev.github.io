@@ -1,5 +1,19 @@
 [
   {
+    "organisation": "Develop for Good",
+    "title": "Software Engineer",
+    "duration": "October 2024 - Present",
+    "location": "United States",
+    "responsibilities": [
+      "Identify and execute the most effective way to realise the requirements of the nonprofit client",
+      "Design, implement, and maintain RESTful APIs and microservices to support various applications, ensuring high performance, security, and scalability",
+      "Collaborate on database design and optimisation, including schema design and query performance tuning, to ensure efficient data storage and retrieval",
+      "Integrate third-party services and APIs to enhance functionality and provide a seamless experience for end-users",
+      "Stay updated on industry trends and emerging technologies, actively contributing ideas for product enhancements and process improvements"
+    ]
+  },
+
+  {
     "organisation": "Compunnel Inc",
     "title": "Software Developer (iOS)",
     "duration": "March 2023 - November 2023",
@@ -36,19 +50,6 @@
       "Wrote unit tests and unit testable code to identify and eliminate bugs",
       "Coordinated with co-workers to provide on-time delivery of the product in an agile environment",
       "Worked with Product Owners to refine user stories"
-    ]
-  },
-
-  {
-    "organisation": "Total Solutions",
-    "title": "Software Developer",
-    "duration": "January 2016 - September 2019",
-    "location": "India",
-    "responsibilities": [
-      "Developed Java-based applications, ensuring robustness, scalability, and efficiency in code architecture",
-      "Designed and implemented intuitive user interfaces using HTML and CSS, enhancing user experience across web applications",
-      "Utilised SQL to design, optimise, and maintain relational databases, facilitating efficient data storage, retrieval, and manipulation",
-      "Actively participated in project planning and coordination meetings, contributing valuable insights to project roadmaps"
     ]
   }
 ]
