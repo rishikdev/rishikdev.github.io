@@ -5,11 +5,11 @@
     "duration": "October 2024 - Present",
     "location": "United States",
     "responsibilities": [
-      "Identify and execute the most effective way to realise the requirements of the nonprofit client",
-      "Design, implement, and maintain RESTful APIs and microservices to support various applications, ensuring high performance, security, and scalability",
-      "Collaborate on database design and optimisation, including schema design and query performance tuning, to ensure efficient data storage and retrieval",
-      "Integrate third-party services and APIs to enhance functionality and provide a seamless experience for end-users",
-      "Stay updated on industry trends and emerging technologies, actively contributing ideas for product enhancements and process improvements"
+      "Design, develop, and deploy a cloud-based software solution on Google Cloud Platform (GCP) that enables nonprofit client to upload, store, and manage their datasets securely and efficiently",
+      "Implement data ingestion pipelines that automate the process of dataset uploads, ensuring data is processed, cleaned, and stored in the correct formats for analysis within GCP",
+      "Leverage GCP tools (e.g., BigQuery, Data Studio, or AI/ML services) to perform data analysis according to client requirements and generate interactive, user-friendly visualisations of key metrics and insights",
+      "Work closely with nonprofit clients to gather and define requirements, translating their needs into technical solutions for data analysis and visualisation, ensuring the software meets their specific goals",
+      "Provide client training on how to use the software effectively, including uploading datasets, interpreting data visualisations, and using the analytics features"
     ]
   },
 
