@@ -7,7 +7,7 @@
     "responsibilities": [
       "Design, develop, and deploy a cloud-based software solution on Google Cloud Platform (GCP) that enables nonprofit client to upload, store, and manage their datasets securely and efficiently",
       "Implement data ingestion pipelines that automate the process of dataset uploads, ensuring data is processed, cleaned, and stored in the correct formats for analysis within GCP",
-      "Leverage GCP tools (e.g., BigQuery, Data Studio, or AI/ML services) to perform data analysis according to client requirements and generate interactive, user-friendly visualisations of key metrics and insights",
+      "Leverage GCP tools (e.g., BigQuery, Looker Studio) to perform data analysis according to client requirements and generate interactive, user-friendly visualisations of key metrics and insights",
       "Work closely with nonprofit clients to gather and define requirements, translating their needs into technical solutions for data analysis and visualisation, ensuring the software meets their specific goals",
       "Provide client training on how to use the software effectively, including uploading datasets, interpreting data visualisations, and using the analytics features"
     ]
@@ -21,7 +21,6 @@
     "responsibilities": [
       "Leveraged native iOS frameworks and APIs, including Core Data, XCTest, URLSession, and MapKit, to enhance application functionality and user experience",
       "Improved the performance of the application by refactoring and optimising the code-base",
-      "Refactored API classes to make use of Combine framework, thereby eliminating some bugs and improving performance",
       "Designed and implemented unit tests using the XCTest framework, ensuring robust and reliable application performance"
     ]
   },
@@ -32,8 +31,7 @@
     "duration": "January 2023 - May 2023",
     "location": "United States",
     "responsibilities": [
-      "Volunteered as a Unity (Game) Developer",
-      "Developed Landmarks game prototype using Unity Game Engine, C#, and MapBox",
+      "Developed Landmarks game using Unity Game Engine, C#, and MapBox",
       "Established the application framework by integrating MapBox with Unity Game Engine",
       "Coordinated with other developers and concept artists to materialise the prototype"
     ]
@@ -45,7 +43,6 @@
     "duration": "October 2019 - June 2020",
     "location": "India",
     "responsibilities": [
-      "Worked as an Associate Software Engineer (ASE)",
       "Developed and maintained SaaS application using Java and React.js",
       "Wrote unit tests and unit testable code to identify and eliminate bugs",
       "Coordinated with co-workers to provide on-time delivery of the product in an agile environment",
