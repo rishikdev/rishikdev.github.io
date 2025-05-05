@@ -1,9 +1,6 @@
 "use client";
 
 import certifications from "../../../public/data/certifications.json";
-import CertificationDetails from "./certification-details";
-import CertificationCarousel from "./certification-carousel";
-import { useState } from "react";
 import Card from "../card/card";
 import CardSubHeader from "../card/card-sub-header";
 import Link from "next/link";
@@ -47,14 +44,6 @@ const Certifications = () => {
         />
       ))}
     </CardCollection>
-  );
-};
-
-const CertificationsNew = () => {
-  return (
-    <div className="flex w-full">
-      <CertificationCarousel />
-    </div>
   );
 };
 

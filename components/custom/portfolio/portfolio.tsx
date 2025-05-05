@@ -5,25 +5,20 @@ import AcademicProjectsButton from "./academic-projects-button";
 import ArticlesButton from "./articles-button";
 import CertificationsButton from "./certifications-button";
 import PersonalProjectsButton from "./personal-projects-button";
+import { usePathname } from "next/navigation";
 
 const Portfolio = () => {
+  const path = usePathname();
+
   return (
     <div className="grid grid-cols-2 lg:flex gap-4">
-      <Link className="w-full" href="/academic-projects">
-        <AcademicProjectsButton />
-      </Link>
+      <AcademicProjectsButton path={path} />
 
-      <Link className="w-full" href="personal-projects">
-        <PersonalProjectsButton />
-      </Link>
+      <PersonalProjectsButton path={path} />
 
-      <Link className="w-full" href="/articles">
-        <ArticlesButton />
-      </Link>
+      <ArticlesButton path={path} />
 
-      <Link className="w-full" href="/certifications">
-        <CertificationsButton />
-      </Link>
+      <CertificationsButton path={path} />
     </div>
   );
 };
