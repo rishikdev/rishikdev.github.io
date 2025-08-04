@@ -1,5 +1,19 @@
 [
   {
+    "title": "AI Research Assistant",
+
+    "description": "Designed and developed an AI research assistant that uses LangChain and Anthropic LLM to answer user questions. The assistant can analyse uploaded documents, search the web using DuckDuckGo, and query Wikipedia to provide structured summaries with sources. It maintains a conversation history and can generate a PDF of the chat. The application uses a tool-calling agent architecture to dynamically select and use the appropriate tools based on the user's query.",
+
+    "skills": "Python, Streamlit, LangChain, Anthropic, Pydantic, Git",
+
+    "button_1_link": "https://rd-ai-research-assistant.streamlit.app",
+    "button_1_text": "Website",
+
+    "button_2_link": "https://github.com/rishikdev/ai-research-assistant",
+    "button_2_text": "GitHub"
+  },
+
+  {
     "title": "RYTD",
 
     "description": "Designed and developed a Safari-specific extension to view YouTube dislike counts. Utilised the Return YouTube Dislike API to fetch dislike data, ensuring reliability and ease of use. The extension supports both light and dark modes, providing a seamless experience across all devices, including iPhones, iPads, and Macs.",
