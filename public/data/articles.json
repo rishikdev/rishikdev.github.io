@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Artificial Intelligence - Definition, Opinion, Examples, and Perception",
+    "description": "Artificial Intelligence (AI) has emerged as one of the most transformative technologies of the 21st century, influencing fields as diverse as healthcare, business, education, and law. As AI capabilities continue to expand, so too does the complexity of defining and understanding its true nature. This article explores four core dimensions of AI: its definition, current availability and role in augmenting human tasks, key technologies that exemplify its use, and the varying perceptions of AI across industries and geographic contexts. Moreover, it highlights both the promise and limitations of AI in practical settings, offering a nuanced view of its current impact and future trajectory.",
+    "date": "22 July 2025",
+    "download_url": "https://raw.githubusercontent.com/rishikdev/articles/main/Artificial%20Intelligence%20-%20Definition%2C%20Opinion%2C%20Examples%2C%20and%20Perception.pdf",
+    "view_url": "https://github.com/rishikdev/articles/blob/main/Artificial%20Intelligence%20-%20Definition%2C%20Opinion%2C%20Examples%2C%20and%20Perception.pdf"
+  },
+
+  {
+    "id": 2,
+    "title": "Emerging Technologies - Impact & Remedies",
+    "description": "In today’s rapidly evolving digital landscape, emerging technologies such as artificial intelligence, Internet of Things, robotic process automation, and social media technologies are profoundly transforming organisational structures, operations, and strategies. These technologies drive complexity by fostering hyper-connectivity and dynamic interdependencies among people, processes, and systems (Benbya et al., 2020). While they offer significant opportunities for innovation and competitive advantage, they also introduce unpredictability and systemic challenges that many organisations struggle to manage. As a result, organisations are compelled to adopt adaptive approaches that can mitigate the burdens of digitalisation. By embracing strategies, such as the thoughtful application of digital solutions, designing evolvable systems, embracing complexity science approaches, cultivating IT-enabled agility, and strategically configuring organisational capabilities, firms can better navigate digital complexity (Benbya et al., 2020). This article explores the dual impact of emerging technologies and outlines strategies organisations can adopt to reduce their disruptive effects.",
+    "date": "15 May 2025",
+    "download_url": "https://raw.githubusercontent.com/rishikdev/articles/main/Emerging%20Technologies%20-%20Impact%20%26%20Remedies.pdf",
+    "view_url": "https://github.com/rishikdev/articles/blob/main/Emerging%20Technologies%20-%20Impact%20%26%20Remedies.pdf"
+  }
+]

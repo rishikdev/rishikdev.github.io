@@ -1,4 +1,33 @@
 [
+    {
+    "degree": "Master of Science in Artificial Intelligence",
+    "institution_link": "https://www.ucumberlands.edu",
+    "institution_name": "University of the Cumberlands",
+    "location": "Dallas, Texas, United States",
+    "graduation_time": "May 2027",
+    "has_courses": true,
+
+    "courses_taken": 
+    [
+      {
+        "semester": "Fall 2025",
+        "courses": [
+          {
+            "course_link": "https://catalog.ucumberlands.edu/content.php?filter%5B27%5D=MSAI&filter%5B29%5D=630&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=1&expand=&navoid=24&search_database=Filter&filter%5Bexact_match%5D=1#acalog_template_course_filter",
+            "course_code": "MSAI 630",
+            "course_name": "Generative AI with Large Language Models"
+          },
+
+          {
+            "course_link": "https://catalog.ucumberlands.edu/content.php?filter%5B27%5D=MSAI&filter%5B29%5D=632&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=1&expand=&navoid=24&search_database=Filter&filter%5Bexact_match%5D=1#acalog_template_course_filter",
+            "course_code": "MSAI 632",
+            "course_name": "Application of AI in Risk Management"
+          }
+        ]
+      }
+    ]
+  },
+  
   {
     "degree": "Master of Science in Information Technology",
     "institution_link": "https://www.ucumberlands.edu",
