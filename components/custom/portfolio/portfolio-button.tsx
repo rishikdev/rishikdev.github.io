@@ -20,8 +20,8 @@ const PortfolioButton = ({
       <Button
         variant="ghost"
         className={cn(
-          "w-full flex justify-start transition-all duration-500",
-          path === href && "bg-accent text-accent-foreground"
+          "w-full flex justify-start transition-all duration-500 lg:border-b-4 lg:border-transparent rounded-none",
+          path === href && "bg-accent text-accent-foreground lg:bg-transparent lg:border-b-accent"
         )}
       >
         {symbol}

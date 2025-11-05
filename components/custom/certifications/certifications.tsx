@@ -32,14 +32,26 @@ const Certifications = () => {
                   {certificate.completion_date}
                 </div>
               </div>
+              <div className="grid gap-2 pb-2">
+                <CardSubHeader primary_header1={"Skills"} />
+                <div className="flex flex-col text-sm text-muted-foreground">
+                  {certificate.skills.map((skill) => (
+                    <div>{skill}</div>
+                  ))}
+                </div>
+              </div>
             </div>
           }
           footer={
-            <Button variant="outline" asChild>
-              <Link href={certificate.validation_url} target="_blank">
-                View Certificate
-              </Link>
-            </Button>
+            <div className="flex justify-between text-sm text-muted-foreground">
+              {certificate.buttons.map((button) => (
+                <Button variant="outline" className="" asChild>
+                  <Link href={button.button_link} target="_blank" className="">
+                    {button.button_text}
+                  </Link>
+                </Button>
+              ))}
+            </div>
           }
         />
       ))}

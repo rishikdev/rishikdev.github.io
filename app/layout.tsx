@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Varela_Round } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/custom/theme/theme-provider";
-import Navbar from "@/components/custom/navbar/navbar";
+import NavbarContainer from "@/components/custom/navbar/navbar-container";
 import { cn } from "@/lib/utils";
 
 const font = Varela_Round({
@@ -30,7 +30,7 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <Navbar />
+          <NavbarContainer />
           <div className="mt-[3rem] p-4 flex w-full justify-center text-justify">
             <div className="w-[95%] lg:w-[75%] 2xl:w-[50%] transition-all duration-500">
               {children}

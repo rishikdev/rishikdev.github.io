@@ -11,7 +11,7 @@ const Portfolio = () => {
   const path = usePathname();
 
   return (
-    <div className="grid grid-cols-2 lg:flex gap-4">
+    <div className="grid grid-cols-2 lg:flex">
       <AcademicProjectsButton path={path} />
 
       <PersonalProjectsButton path={path} />

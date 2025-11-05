@@ -6,6 +6,7 @@ import CardSubHeader from "../card/card-sub-header";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import CardCollection from "../card/card-collection";
+import { Badge } from "@/components/ui/badge";
 
 const Articles = () => {
   return (
@@ -17,7 +18,7 @@ const Articles = () => {
           body={
             <div className="flex-col divide-y">
               <div className="grid gap-2 pb-2">
-                <CardSubHeader primary_header1={"Description"} />
+                <CardSubHeader primary_header1={"Abstract"} />
                 <div className="">{article.description}</div>
               </div>
               <div className="grid gap-2 pb-2">
@@ -26,28 +27,25 @@ const Articles = () => {
                   {article.date}
                 </div>
               </div>
+              <div className="grid gap-2 pb-2">
+                <CardSubHeader primary_header1={"Keywords"} />
+                <div className="flex flex-col text-sm text-muted-foreground">
+                  {article.keywords.map((keyword) => (
+                    <div>{keyword}</div>
+                  ))}
+                </div>
+              </div>
             </div>
           }
           footer={
-            <div className="grid grid-cols-2 text-sm text-muted-foreground">
-              <Button variant="outline" asChild>
-                <Link
-                  href={article.view_url}
-                  target="_blank"
-                  className="justify-self-start"
-                >
-                  View Article
-                </Link>
-              </Button>
-              <Button variant="outline" asChild>
-                <Link
-                  href={article.download_url}
-                  target="_blank"
-                  className="justify-self-end"
-                >
-                  Download Article
-                </Link>
-              </Button>
+            <div className="flex justify-between text-sm text-muted-foreground">
+              {article.buttons.map((button) => (
+                <Button variant="outline" className="" asChild>
+                  <Link href={button.button_link} target="_blank" className="">
+                    {button.button_text}
+                  </Link>
+                </Button>
+              ))}
             </div>
           }
         />
