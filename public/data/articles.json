@@ -83,8 +83,8 @@
   {
     "id": 4,
     "title": "Artificial Intelligence and Modern Warfare: Strategic Stability and the Changing Global Balance of Power",
-    "description": "Artificial intelligence (AI) has emerged as a transformative force in international relations, fundamentally altering the conduct of warfare and reshaping the global balance of power. This paper argues that AI's strategic consequences are not determined by the technology itself but by the social, political, and cognitive contexts in which it is deployed. It examines how AI is transforming modern warfare across intelligence, command and control, and autonomous weapons, while also weaponising information and cognition through disinformation and influence operations. The paper further analyses how national approaches to defence AI, particularly those of the United States, China, Russia, India, and Ukraine, reflect divergent political systems and innovation ecosystems, influencing each state's capacity to integrate AI effectively. Critically, it highlights the risks of automation bias, algorithmic opacity, and compressed decision timelines, which threaten strategic stability and increase the likelihood of inadvertent escalation. The paper concludes that managing the intersection of AI and warfare demands robust international governance, clear norms for responsible military use, and renewed efforts to ensure meaningful human control over decisions of life and death.",
-    "date": "03 November 2025",
+    "description": "Artificial intelligence (AI) is reshaping warfare and the global balance of power. This paper argues that AI’s strategic consequences are determined by socio-political and cognitive contexts, rather than technological determinism. It examines AI’s transformation of intelligence, command and control, and autonomous weapons, alongside the weaponisation of information. Analysing national approaches, including the US, China, Russia, India, and Ukraine, it demonstrates how divergent innovation ecosystems shape AI integration. Critically, the paper highlights risks such as automation bias, algorithmic opacity, and compressed decision timelines that threaten strategic stability and increase the likelihood of inadvertent escalation. The paper concludes that managing military AI requires robust international governance, responsible norms, and ensuring meaningful human control over lethal decisions.",
+    "date": "14 November 2025",
     "keywords": [
       "Artificial Intelligence (AI)",
       "Modern Warfare",
@@ -97,11 +97,11 @@
     ],
     "buttons": [
       {
-        "button_link": "https://d197for5662m48.cloudfront.net/documents/publicationstatus/288377/preprint_pdf/7bd3cd10d227116dd79e0eba02a38837.pdf",
+        "button_link": "https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/69162315ef936fb4a20cee3b/original/artificial-intelligence-and-modern-warfare-strategic-stability-and-the-changing-global-balance-of-power.pdf",
         "button_text": "Download"
       },
       {
-        "button_link": "https://doi.org/10.31124/advance.176216845.53909914/v1",
+        "button_link": "https://doi.org/10.33774/apsa-2025-gkp7z",
         "button_text": "View"
       }
     ]
