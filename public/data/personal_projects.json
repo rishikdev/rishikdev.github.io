@@ -7,10 +7,6 @@
     "skills": "Python, Streamlit, LangChain, Anthropic, Pydantic, Git",
     "buttons": [
       {
-        "button_link": "https://rd-ai-research-assistant.streamlit.app",
-        "button_text": "Website"
-      },
-      {
         "button_link": "https://github.com/rishikdev/ai-research-assistant",
         "button_text": "GitHub"
       }
@@ -110,15 +106,10 @@
   {
     "id": "7",
     "title": "My Notes Plus",
-    "description": "Developed and published a note-taking application for iPhone, iPad and Apple Watch using SwiftUI and Swift. Used Core Data with CloudKit to persist user data locally as well as on iCloud, and WidgetKit for making customizable widgets. The entire application is built on the MVVM architecture.",
+    "description": "Developed a note-taking application for iPhone, iPad and Apple Watch using SwiftUI and Swift. Used Core Data with CloudKit to persist user data locally as well as on iCloud, and WidgetKit for making customizable widgets. The entire application is built on the MVVM architecture.",
     "genres": ["iOS"],
     "skills": "SwiftUI, Swift, Xcode, MVVM, WidgetKit, CloudKit",
     "buttons": [
-      {
-        "button_link": "https://apps.apple.com/us/app/my-notes-plus/id1636570752?itsct=apps_box_badge&itscg=30200",
-        "button_text": "App Store"
-      },
-
       {
         "button_link": "https://rishikdev.github.io/MyNotesPlus/",
         "button_text": "Website"
@@ -181,10 +172,6 @@
     "genres": ["Web"],
     "skills": "HTML, CSS, Bootstrap, JavaScript, JQuery, AJAX, PHP, Blender, RESTful",
     "buttons": [
-      {
-        "button_link": "https://myfavouritecars97.000webhostapp.com/",
-        "button_text": "Website"
-      },
       {
         "button_link": "https://github.com/rishikdev/My-Favourite-Cars-Website",
         "button_text": "GitHub"
