@@ -43,10 +43,6 @@
     "skills": "HTML, CSS, JavaScript, jQuery, AJAX, Python, MySQL, RESTful",
     "buttons": [
       {
-        "button_link": "http://gamearena.pythonanywhere.com",
-        "button_text": "Website"
-      },
-      {
         "button_link": "https://github.com/rishikdev/AcademicProjects/tree/main/CS%206314%20-%20Web%20Programming%20Languages/Project",
         "button_text": "GitHub"
       }
