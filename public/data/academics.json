@@ -3,8 +3,8 @@
     "degree": "Master of Science in Artificial Intelligence",
     "institution_link": "https://www.ucumberlands.edu",
     "institution_name": "University of the Cumberlands",
-    "location": "Dallas, Texas, United States",
-    "graduation_time": "May 2027",
+    "location": "Williamsburg, Kentucky, United States",
+    "graduation_time": "Expected May 2027",
     "has_courses": true,
 
     "courses_taken": 
@@ -32,7 +32,7 @@
     "degree": "Master of Science in Information Technology",
     "institution_link": "https://www.ucumberlands.edu",
     "institution_name": "University of the Cumberlands",
-    "location": "Dallas, Texas, United States",
+    "location": "Williamsburg, Kentucky, United States",
     "graduation_time": "August 2025",
     "has_courses": true,
 
@@ -124,7 +124,7 @@
     "degree": "Master of Science in Computer Science",
     "institution_link": "https://www.utdallas.edu",
     "institution_name": "The University of Texas at Dallas",
-    "location": "Dallas, Texas, United States",
+    "location": "Richardson, Texas, United States",
     "graduation_time": "December 2022",
     "has_courses": true,
 
